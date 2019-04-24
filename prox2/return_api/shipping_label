@@ -1,4 +1,4 @@
 {
-  "shipping_label_url": "http://www.google.com",
-  "tracking_number": "order_123"
+  "shipping_label_url": "https://www.google.com.tw/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+  "tracking_number": "tracking_123"
 }
