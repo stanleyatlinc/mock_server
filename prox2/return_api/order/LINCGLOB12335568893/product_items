@@ -1,0 +1,46 @@
+{
+  "product_items": [
+      {
+          "product_id": "linc_p0001",
+          "variant_id": "linc_v0001",
+          "name": "linc product name 1",
+          "returnable": true,
+          "reject_type": "",
+          "reject_reason": "",
+          "return_deadline": "2018-12-31T23:59:59.999Z",
+          "quantity": 10,
+          "returned_quantity": 1,
+          "cancelled_quantity": 2,
+          "delivered_quantity": 6,
+          "returnable_quantity": 5
+      },
+      {
+          "product_id": "linc_p0002",
+          "variant_id": "linc_v0002",
+          "name": "linc product name 2",
+          "returnable": true,
+          "reject_type": "",
+          "reject_reason": "",
+          "return_deadline": "2018-12-31T23:59:59.999Z",
+          "quantity": 10,
+          "returned_quantity": 6,
+          "cancelled_quantity": 2,
+          "delivered_quantity": 6,
+          "returnable_quantity": 0
+      },
+      {
+          "product_id": "linc_p0002",
+          "variant_id": "linc_v0002",
+          "name": "linc product name 2",
+          "returnable": false,
+          "reject_type": "final_sale",
+          "reject_reason": "It's final sale product!",
+          "return_deadline": "2018-12-31T23:59:59.999Z",
+          "quantity": 10,
+          "returned_quantity": 0,
+          "cancelled_quantity": 0,
+          "delivered_quantity": 6,
+          "returnable_quantity": 0
+      }
+  ]
+}
