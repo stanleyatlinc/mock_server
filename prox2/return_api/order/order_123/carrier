@@ -1,6 +1,4 @@
 {
-  "return_carrier": {
-    "carrier": "fedex",
-    "service_type": "smart_post"
-  }
+  "carrier": "fedex",
+  "service_type": "smart_post"
 }
