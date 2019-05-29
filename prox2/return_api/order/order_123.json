@@ -54,7 +54,10 @@
       "country_code": "US",
       "zip": "94086"
   },
-  "carrier": "fedex",
+  "return_carrier": {
+    "carrier": "fedex",
+    "service_type": "smart_post"
+  },
   "refund_types": [0, 1],
   "rma_number": "rma1234"
 }
