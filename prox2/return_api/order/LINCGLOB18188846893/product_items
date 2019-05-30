@@ -1,8 +1,8 @@
 {
   "product_items": [
       {
-          "product_id": "linc_p0001",
-          "variant_id": "linc_v0001",
+          "product_id": "3893463",
+          "variant_id": "3893463",
           "name": "linc product name 1",
           "returnable": true,
           "reject_type": "",
@@ -15,8 +15,8 @@
           "returnable_quantity": 5
       },
       {
-          "product_id": "linc_p0002",
-          "variant_id": "linc_v0002",
+          "product_id": "3376082179",
+          "variant_id": "3376082179",
           "name": "linc product name 2",
           "returnable": true,
           "reject_type": "",
