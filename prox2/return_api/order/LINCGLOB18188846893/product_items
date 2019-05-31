@@ -29,9 +29,9 @@
           "returnable_quantity": 1
       },
       {
-          "product_id": "linc_p0002",
-          "variant_id": "linc_v0002",
-          "name": "linc product name 2",
+          "product_id": "linc_p0003",
+          "variant_id": "linc_v0003",
+          "name": "linc product name 3",
           "returnable": false,
           "reject_type": "final_sale",
           "reject_reason": "It's final sale product!",
