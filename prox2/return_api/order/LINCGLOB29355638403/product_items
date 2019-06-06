@@ -8,11 +8,11 @@
           "reject_type": "",
           "reject_reason": "",
           "return_deadline": "2018-12-31T23:59:59.999Z",
-          "quantity": 10,
+          "quantity": 20,
           "returned_quantity": 1,
           "cancelled_quantity": 2,
-          "delivered_quantity": 6,
-          "returnable_quantity": 5
+          "delivered_quantity": 16,
+          "returnable_quantity": 15
       },
       {
           "product_id": "3376082179",
@@ -22,11 +22,11 @@
           "reject_type": "",
           "reject_reason": "",
           "return_deadline": "2018-12-31T23:59:59.999Z",
-          "quantity": 10,
+          "quantity": 30,
           "returned_quantity": 6,
           "cancelled_quantity": 2,
-          "delivered_quantity": 7,
-          "returnable_quantity": 1
+          "delivered_quantity": 27,
+          "returnable_quantity": 21
       },
       {
           "product_id": "linc_p0003",
