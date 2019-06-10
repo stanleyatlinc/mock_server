@@ -6,8 +6,8 @@
     "address": "100 Mathilda Pl #150",
     "address2": "",
     "city": "Sunnyvale",
-    "state": "CA",
+    "province_code": "CA",
     "country_code": "US",
-    "postal_code": "94086"
+    "zip": "94086"
   }
 }
