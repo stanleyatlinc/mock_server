@@ -56,6 +56,5 @@
     "carrier": "fedex",
     "service_type": "smart_post"
   },
-  "refund_types": [0, 1],
   "rma_number": "rma1234"
 }
