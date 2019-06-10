@@ -3,11 +3,11 @@
     "first_name": "Bill",
     "last_name": "Jorden",
     "phone": "+1(408)809-2797",
-    "address": "100 Mathilda Pl #151",
-    "address2": "",
+    "address": "100 Mathilda Pl",
+    "address2": "#151",
     "city": "Sunnyvale",
-    "province_code": "CA",
+    "state": "CA",
     "country_code": "US",
-    "zip": "94086"
+    "postal_code": "94086"
   }
 }
