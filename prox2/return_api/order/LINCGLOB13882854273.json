@@ -1,0 +1,60 @@
+{
+  "product_items": [
+      {
+          "product_id": "3373614339",
+          "variant_id": "3373614339",
+          "name": "linc product name 1",
+          "returnable": true,
+          "reject_type": "",
+          "reject_reason": "",
+          "return_deadline": "2018-12-31T23:59:59.999Z",
+          "quantity": 10,
+          "returned_quantity": 1,
+          "cancelled_quantity": 2,
+          "delivered_quantity": 6,
+          "returnable_quantity": 5
+      },
+      {
+          "product_id": "3376082179",
+          "variant_id": "3376082179",
+          "name": "linc product name 2",
+          "returnable": true,
+          "reject_type": "",
+          "reject_reason": "",
+          "return_deadline": "2018-12-31T23:59:59.999Z",
+          "quantity": 10,
+          "returned_quantity": 6,
+          "cancelled_quantity": 2,
+          "delivered_quantity": 7,
+          "returnable_quantity": 1
+      },
+      {
+          "product_id": "linc_p0003",
+          "variant_id": "linc_v0003",
+          "name": "linc product name 3",
+          "returnable": false,
+          "reject_type": "final_sale",
+          "reject_reason": "It's final sale product!",
+          "return_deadline": "2018-12-31T23:59:59.999Z",
+          "quantity": 10,
+          "returned_quantity": 0,
+          "cancelled_quantity": 0,
+          "delivered_quantity": 6,
+          "returnable_quantity": 0
+      }
+  ],
+  "return_address": {
+      "phone": "+1(408)809-2797",
+      "address": "100 Mathilda Pl #150",
+      "address2": "",
+      "city": "Sunnyvale",
+      "province_code": "CA",
+      "country_code": "US",
+      "zip": "94086"
+  },
+  "return_carrier": {
+    "carrier": "fedex",
+    "service_type": "smart_post"
+  },
+  "rma_number": "rma1234"
+}
